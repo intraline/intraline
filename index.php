@@ -1,5 +1,7 @@
 <?php
 
-	echo 'teszt';
+echo 'hello bello';
+
+
 
 ?>
